@@ -1,0 +1,5 @@
+com\test\crudjava\domain\emprestimo\converter\EmprestimoConverter.class
+com\test\crudjava\controller\response\EmprestimoResponse.class
+com\test\crudjava\domain\emprestimo\EmprestimoRepository.class
+com\test\crudjava\controller\EmprestimoController.class
+com\test\crudjava\domain\emprestimo\Emprestimo.class
